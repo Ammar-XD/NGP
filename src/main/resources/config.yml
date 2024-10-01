@@ -1,0 +1,5 @@
+# This message will be shown when the pearl is thrown in a glitch block
+glitch-message: "<red>You cannot pearl glitch through this block!"
+
+# Allow endermite to spawn
+allow-endermite-spawn: true

@@ -1,0 +1,9 @@
+name: NoGlitchPearls
+version: '1.1'
+main: me.infnox.noGlitchPearls.NoGlitchPearls
+api-version: '1.21'
+commands:
+  ngp:
+    description: "No Glitch Pearls command"
+    usage: "/ngp [reload]"
+    permission: "ngp.reload"
